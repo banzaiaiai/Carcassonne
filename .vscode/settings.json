@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/banzaiaiai/code/Carcassonne",
+    "clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}/build"
+    ]
+}
